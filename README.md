@@ -64,6 +64,7 @@ python3 tools/install.py
 2. 把 `workbuddy` 条目**合并**进 `programs.json`——你已有的条目原样保留
 
 Herdr 对 `programs.json` 是热加载的，存盘即生效，不用重启。
+点标签栏右侧的 `+` 号就能看到新条目。
 
 想看它要改什么而不真正落盘：
 

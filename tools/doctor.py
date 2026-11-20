@@ -94,7 +94,7 @@ def main() -> int:
         for p in problems:
             print(f"  - {p}")
         return 1
-    print("✓ 全部检查通过。打开 Herdr 的「新建」菜单（Cmd+Shift+P 后找 new，或顶部 +）应该能看到 WorkBuddy。")
+    print("✓ 全部检查通过。点 Herdr 标签栏右侧的 + 号，菜单里应该能看到 WorkBuddy。")
     return 0
 
 
